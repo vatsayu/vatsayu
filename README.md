@@ -6,7 +6,7 @@ An analytical, hands-on Blue Team Specialist currently executing an intensive, m
 
 ### 🚀 Active Sprint: 30-Day Blue Team Operations Portfolio
 I am currently documenting live engineering and triage environments. Follow my daily progress, raw analytical findings, and formal incident reports here:
-👉 **[View My Live SOC Portfolio Repository](https://github.com/vatsayu/SOC-Portfolio)**
+👉 **[View My Live SOC Portfolio Repository](https://github.com/vatsayu/SOC_Lab)**
 
 ---
 
